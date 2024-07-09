@@ -43,4 +43,4 @@ https://docs.google.com/document/d/1Uo9xEonMN56gx0pm-UlZ3e1FtAQRd8ZWtC1bEgoxEWk/
 Lagos State Flood Prediction
 https://drive.google.com/file/d/1LPxLVGqKWQCeOxu3DGwROWBw2SYRnxXB/view?usp=sharing
 
-This portfolio aims to highlight my analytical capabilities and the impactful insights derived from my personal projects. I look forward to potential collaborations that leverage data to drive meaningful outcomes.
+This portfolio aims to highlight my analytical capabilities and the impactful insights derived from my personal projects on HNG11 Internship. I look forward to potential collaborations that leverage data to drive meaningful outcomes.
